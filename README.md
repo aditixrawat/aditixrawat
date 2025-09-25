@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d6d,100:4d79ff&height=180&section=header&text=Hi%20👋%2C%20I'm%20aditixrawat&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d6d,100:4d79ff&height=180&section=header&text=Hi%20👋%2C%20I'm%20Aditi%20Rawat&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 <p align="center">
   <a href="https://github.com/YOURUSERNAME">
