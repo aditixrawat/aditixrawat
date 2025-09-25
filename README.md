@@ -1,12 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:014421,100:9CAF88&height=180&section=header&text=Hi%20👋%2C%20I'm%20Aditi%20Rawat&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:014421,100:9CAF88&height=180&section=header&text=Hey%20👋%2C%20I'm%20Aditi%20Rawat&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 <p align="center">
   <a href="https://github.com/YOURUSERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=014421&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+UI+Lover;Building+DeepFashionTagger;Always+learning+new+things">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9CAF88&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+UI+Lover;Building+DeepFashionTagger;Always+learning+new+things">
   </a>
 </p>
+
 
 
 <!-- Badges -->
@@ -22,10 +23,10 @@
 ---
 
 ## 👨‍💻 About Me
-
-- 🎯 Currently working on **DeepFashionTagger**
 - 🤖 Passionate about **AI, Machine Learning, and Computer Vision**
 - 💡 Always exploring **new tech stacks** and **cool UI designs**
+- 🌱 Currently growing my green thumb in deep learning and fashion tech
+
 
 ---
 
