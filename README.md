@@ -76,6 +76,9 @@
     <a href="https://medium.com/@aditixrawat">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
+    <a href="https://www.pinterest.com/dityxyz">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
+  </a>
 </p>
 
 <!-- Footer -->
