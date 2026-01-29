@@ -70,6 +70,9 @@
   <a href="https://instagram.com/whatwouldaditido">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+   <a href="https://aditixrawat.substack.com">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/>
+  </a>
 </p>
 
 <!-- Footer -->
