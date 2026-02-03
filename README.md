@@ -39,14 +39,8 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditixrawat&show_icons=true&theme=gruvbox" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditixrawat&theme=gruvbox" height="165"/>
-</p>
 
----
 
 ## 🛠 Projects
 
