@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:014421,100:9CAF88&height=180&section=header&text=Hey%20👋%2C%20I'm%20Aditi%20Rawat&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 <p align="center">
+
   <a href="https://github.com/YOURUSERNAME">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9CAF88&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+UI+Lover;Building+DeepFashionTagger;Always+learning+new+things">
   </a>
@@ -17,6 +18,9 @@
   </a>
   <a href="https://twitter.com/YOURTWITTER">
     <img src="https://img.shields.io/twitter/follow/aditixrawat?style=social"/>
+        <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=aditixrawat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
   </a>
 </p>
 
@@ -48,6 +52,11 @@
 - ⚡ More coming soon...
 
 ---
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aditixrawat&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ## 💬 Let's Connect
 
