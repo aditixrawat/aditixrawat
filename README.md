@@ -16,7 +16,7 @@
   <a href="https://github.com/aditixrawat">
     <img src="https://img.shields.io/github/followers/aditixrawat?label=Follow&style=social"/>
   </a>
-  <a href="https://twitter.com/YOURTWITTER">
+  <a href="https://twitter.com/aditixrawat">
     <img src="https://img.shields.io/twitter/follow/aditixrawat?style=social"/>
         <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=aditixrawat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
