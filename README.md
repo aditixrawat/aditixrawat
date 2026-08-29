@@ -5,7 +5,7 @@
 <p align="center">
 
   <a href="https://github.com/aditixrawat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9CAF88&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+UI+Lover;Building+DeepFashionTagger;Always+learning+new+things">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9CAF88&center=true&vCenter=true&width=500&lines=Building+DeepFashionTagger;Always+learning+new+things">
   </a>
 </p>
 
@@ -27,7 +27,6 @@
 ---
 
 ## 👨‍💻 About Me
-- 🧩 Creative AI intern @Helium
 - 🤖 Passionate about **AI, Machine Learning, and Computer Vision**
 - 💡 Always exploring **new tech stacks** and **cool UI designs**
 - 🌱 Currently growing my green thumb in deep learning and fashion tech
