@@ -27,10 +27,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 🤖 Passionate about **AI, Machine Learning, and Computer Vision**
 - 💡 Always exploring **new tech stacks** and **cool UI designs**
 - 🌱 Currently growing my green thumb in deep learning and fashion tech
-
+- 🛒 **E-Commerce & Conversion:** Designing end-to-end user journeys, landing pages, and interactive experiments optimized through A/B testing.
 
 ---
 
